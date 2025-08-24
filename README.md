@@ -1,3 +1,3 @@
 # learning-git
 learning git and github
-changes made but committed!!
+it was actually done while learning!!
